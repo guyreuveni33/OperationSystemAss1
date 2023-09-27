@@ -14,7 +14,7 @@ To execute this script, follow these steps:
 
 1. Open a terminal window and paste this command:
 
-   git clone https://github.com/guyreuveni33/DynamicDictionary.git
+   git clone https://github.com/guyreuveni33/OperationSystemAss1.git
 
 2. navigate to the directory where the script is located by this command:
 
@@ -57,7 +57,7 @@ Just follow these steps:
 
 1. Open a terminal window and paste this command:
 
-   git clone https://github.com/guyreuveni33/DynamicDictionary.git
+   git clone https://github.com/guyreuveni33/OperationSystemAss1.git
 
 3. navigate to the directory where the script is located by this command:
  
