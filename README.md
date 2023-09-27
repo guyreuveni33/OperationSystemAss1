@@ -29,6 +29,9 @@ word_to_search: Specify the word or pattern you want to locate.
 # Tennis Game - An Interactive Board Game
 Tennis is a script that emulates an engaging two-player board game. Each player starts with a score of 50 points, and the game unfolds in rounds, with players making strategic choices by inputting a number between 0 and their remaining score.
 
+<img src="https://i.postimg.cc/44Yr7Q80/image.png" width="700" height="300">
+<img src="https://i.postimg.cc/8CqLyDSM/image.png" width="250" height="600">
+
 ## Game Rules
 Initial Scores: Both players begin with 50 points.
 First Round: At the commencement of the first round, a token is positioned in the middle column.
