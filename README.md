@@ -12,9 +12,15 @@ This script streamlines the compilation process, allowing users to compile only 
 
 To execute this script, follow these steps:
 
-1. Open a terminal window and navigate to the directory where the script is located.
+1. Open a terminal window and paste this command:
 
-2. Use the following command template:
+   git clone https://github.com/guyreuveni33/DynamicDictionary.git
+
+2. navigate to the directory where the script is located by this command:
+
+    cd OperationSystemAss3
+
+3. Use the following command template:
 
 ./gccfind.sh [path_to_directory] [word_to_search] [-r]
 
@@ -49,9 +55,15 @@ Simply run the script directly in a Bash shell without requiring any user input 
 
 Just follow these steps:
 
-1. Open a terminal window and navigate to the directory where the script is located.
+1. Open a terminal window and paste this command:
 
-2. Use the following command template:
+   git clone https://github.com/guyreuveni33/DynamicDictionary.git
+
+3. navigate to the directory where the script is located by this command:
+ 
+    cd OperationSystemAss3
+
+4. Use the following command template:
 
 ./tennis.sh
 
